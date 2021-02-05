@@ -18,4 +18,6 @@
 .landingpage * {
     color: white;
     text-align: center;
+    font-size: 5em;
+    font-weight: bold;
 }
